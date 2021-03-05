@@ -1,0 +1,12 @@
+/home/andrey/source/repos/WebApplication/talabat/bin/Debug/netcoreapp3.1/talabat.deps.json
+/home/andrey/source/repos/WebApplication/talabat/bin/Debug/netcoreapp3.1/talabat.dll
+/home/andrey/source/repos/WebApplication/talabat/bin/Debug/netcoreapp3.1/talabat.pdb
+/home/andrey/source/repos/WebApplication/talabat/obj/Debug/netcoreapp3.1/talabat.csprojAssemblyReference.cache
+/home/andrey/source/repos/WebApplication/talabat/obj/Debug/netcoreapp3.1/talabat.AssemblyInfoInputs.cache
+/home/andrey/source/repos/WebApplication/talabat/obj/Debug/netcoreapp3.1/talabat.AssemblyInfo.cs
+/home/andrey/source/repos/WebApplication/talabat/obj/Debug/netcoreapp3.1/talabat.csproj.CoreCompileInputs.cache
+/home/andrey/source/repos/WebApplication/talabat/obj/Debug/netcoreapp3.1/talabat.dll
+/home/andrey/source/repos/WebApplication/talabat/obj/Debug/netcoreapp3.1/talabat.pdb
+/home/andrey/source/repos/WebApplication/talabat/bin/Debug/netcoreapp3.1/Models.dll
+/home/andrey/source/repos/WebApplication/talabat/bin/Debug/netcoreapp3.1/Models.pdb
+/home/andrey/source/repos/WebApplication/talabat/obj/Debug/netcoreapp3.1/talabat.csproj.CopyComplete

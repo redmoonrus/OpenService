@@ -1,0 +1,9 @@
+/home/andrey/source/repos/WebApplication/Models/bin/Debug/netcoreapp3.1/Models.deps.json
+/home/andrey/source/repos/WebApplication/Models/bin/Debug/netcoreapp3.1/Models.dll
+/home/andrey/source/repos/WebApplication/Models/bin/Debug/netcoreapp3.1/Models.pdb
+/home/andrey/source/repos/WebApplication/Models/obj/Debug/netcoreapp3.1/Models.csprojAssemblyReference.cache
+/home/andrey/source/repos/WebApplication/Models/obj/Debug/netcoreapp3.1/Models.AssemblyInfoInputs.cache
+/home/andrey/source/repos/WebApplication/Models/obj/Debug/netcoreapp3.1/Models.AssemblyInfo.cs
+/home/andrey/source/repos/WebApplication/Models/obj/Debug/netcoreapp3.1/Models.csproj.CoreCompileInputs.cache
+/home/andrey/source/repos/WebApplication/Models/obj/Debug/netcoreapp3.1/Models.dll
+/home/andrey/source/repos/WebApplication/Models/obj/Debug/netcoreapp3.1/Models.pdb
